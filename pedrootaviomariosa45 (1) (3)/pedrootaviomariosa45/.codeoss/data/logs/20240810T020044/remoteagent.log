@@ -1,0 +1,11 @@
+2024-08-10 02:00:44.687 [info] 
+
+
+
+
+2024-08-10 02:00:44.687 [info] Extension host agent started.
+2024-08-10 02:00:44.688 [info] Started initializing default profile extensions in extensions installation folder. file:///home/pedrootaviomariosa45/.codeoss/extensions
+2024-08-10 02:00:44.737 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/pedrootaviomariosa45/.codeoss/extensions
+2024-08-10 02:00:55.998 [info] [127.0.0.1][c6e1b420][ManagementConnection] New connection established.
+2024-08-10 02:00:56.000 [info] [127.0.0.1][06120fd1][ExtensionHostConnection] New connection established.
+2024-08-10 02:00:57.460 [info] [127.0.0.1][06120fd1][ExtensionHostConnection] <1760> Launched Extension Host Process.
